@@ -8,7 +8,7 @@
 The principle is simple:
 
 1. Guage comfortable baseline number of steps (1-2 days)
-2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table)  as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under :relaxed: .
+2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table) as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under :relaxed: .
 3. Build up the number of steps carefully keeping in line with the steps/time guide.
 
 # Full Description
@@ -37,7 +37,7 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 1. Spend 1-2 days doing what you are currently doing to guage how active you really are. Try to notice WHEN you are being active. DO NOT push yourself during these days. **You need to find a baseline you can manage**.
 
-2. Take note of the number of steps certain activities take. E.g. Getting breakfast = 83 steps. Walk to shops = approx 900 steps. This will help spread the load in step 2.
+2. Take note of the number of steps certain activities take. E.g. Getting breakfast = 83 steps. Walk to shops = approx 900 steps. This will help spread the load in step 2. My wife paced out certain activities for me, so I didn't have to do them to know what was required.
 
 
 ### Step 2 - Try to spread activity through the day
@@ -63,7 +63,7 @@ The main idea is to spread steps out through the day.
 
 
 - It's a target to match, not a target to beat.
-- Don't be too specific - a bit over or under is fine :smiley:
+- Don't be too specific - a bit over or under is fine :relaxed:
 - If you are over the number of steps - take some rest until later.
 - If you are under, you may want to do a little more to keep the spread even.
 
@@ -96,6 +96,8 @@ The formula is in [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/
 
 
 ## My Experience/ Results
+
+> NOTE: Do not compare your progress with other people. Everyones body is different - Do what's right for you!
 
 ### Step 1
 
