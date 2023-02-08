@@ -111,7 +111,7 @@ I started spreading out my steps over the day. My inital target was 1200. When s
 
 ### Step 3
 
-My Progress was:
+I used this method, being careful to note my progress at the times in the table (10am, 12pm, 4pm, 8pm) and spread activity throughout the day:
 
 | Day  | Steps (approx) |
 | ---- | ----- |
