@@ -8,7 +8,7 @@
 The principle is simple:
 
 1. Guage comfortable baseline number of steps (1-2 days)
-2. Print [Steps Calculator.xlsx](Steps_Calculator.xlsx) or use [this](#how-to-use-the-steps-table)  as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under :relaxed: .
+2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table)  as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under :relaxed: .
 3. Build up the number of steps carefully keeping in line with the steps/time guide.
 
 # Full Description
@@ -44,7 +44,7 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 1. Set a specific wake time (6-8am?)
 
-2. Use the [Steps Table Guide](#how-to-use-the-steps-table) below, or print [Steps Calculator.xlsx](Steps_Calculator.xlsx) to guide spreading your steps out during the day at the existing level. Aim for the current number of steps, but spread evenly through the day.
+2. Use the [Steps Table Guide](#how-to-use-the-steps-table) below, or print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) to guide spreading your steps out during the day at the existing level. Aim for the current number of steps, but spread evenly through the day.
 
 **NOTE: The table is the key point of this whole method. It is a target to match, NOT a target to beat! This means, if you have hit your target too early - you should rest!** 
 
@@ -90,7 +90,7 @@ The main idea is to spread steps out through the day.
 
 
 
-The formula is in [Steps Calculator.xlsx](Steps_Calculator.xlsx)
+The formula is in [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx)
 
 
 
