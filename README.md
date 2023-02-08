@@ -7,7 +7,7 @@
 
 The principle is simple:
 
-1. Guage comfortable baseline number of steps (1-2 days)
+1. Gauge comfortable baseline number of steps (1-2 days)
 2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table) as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under, but try to get near :relaxed: .
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
@@ -33,9 +33,9 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 ## Method
 
-### Step 1 - Guage Current Activity
+### Step 1 - Gauge Current Activity
 
-1. Spend 1-2 days doing what you are currently doing to guage how active you really are. Try to notice WHEN you are being active. DO NOT push yourself during these days. **You need to find a baseline you can manage**.
+1. Spend 1-2 days doing what you are currently doing to Gauge how active you really are. Try to notice WHEN you are being active. DO NOT push yourself during these days. **You need to find a baseline you can manage**.
 
 2. Take note of the number of steps certain activities take. E.g. Getting breakfast = 83 steps. Walk to shops = approx 900 steps. This will help spread the load in step 2. My wife paced out certain activities for me, so I didn't have to do them to know what was required.
 
