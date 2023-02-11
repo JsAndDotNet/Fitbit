@@ -12,7 +12,7 @@ The principle is simple:
 
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
-I found the tables worked better than a '% Complete App' (such as the 'Loops' Clock on Fitbit Versa 2), as the tables were more specific and took into account my waking hours. I mention the clock here in case that works for you. All that matters is finding what works :relaxed: .
+I found the tables worked better than a '% Complete App' (such as the 'Loops' Clock on Fitbit Versa 2). The tables were more specific and took into account my waking hours, meaning I knew if I was over or under at a given time.
 
 # Full Description
 
