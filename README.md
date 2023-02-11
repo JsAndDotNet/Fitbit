@@ -8,8 +8,11 @@
 The principle is simple:
 
 1. Gauge comfortable baseline number of steps (1-2 days)
-2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table) as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under, but try to get near :relaxed: . I found the tables worked better than a '% Complete app', as they were more specific and took into account my waking hours.
+2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table) as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under, but try to get near :relaxed: . 
+
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
+
+I found the tables worked better than a '% Complete App' (such as the 'Loops' Clock on Fitbit Versa 2), as the tables were more specific and took into account my waking hours. I mention the clock here in case that works for you. All that matters is finding what works :relaxed: .
 
 # Full Description
 
