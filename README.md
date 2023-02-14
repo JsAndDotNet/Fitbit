@@ -149,6 +149,7 @@ I used this method, being careful to check my progress at the times in the table
 | 17   | 6000 <sup>4</sup>  |
 | 18   | 8500   |
 | 19   | 6400 <sup>5</sup>  |
+| 20   | 8500 <sup>6</sup>  |
 
 
 1. Was aiming for 3.5k, but went a bit over
@@ -156,6 +157,7 @@ I used this method, being careful to check my progress at the times in the table
 3. Did an exercise class for 30 mins, so aimed for lower steps to avoid exhaustion.
 4. Went clothes shopping with family. Was standing around a lot, so lower steps.
 5. Did an exercise class (30 mins), a very brisk walk, and started Tai Chi (20 mins - hard on the legs!).
+6. Including a walk around town and 2 brisk walks.
 
 
 ### Overall
