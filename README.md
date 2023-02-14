@@ -66,11 +66,11 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 - You may hit plateau's (times when you get stuck at a level - I did at 5K and 7K). Don't worry. If you're not ready to move on, don't try to push through. You may find you're actually doing more of other activities that don't involve many steps, but is still exertion (e.g. cooking).
 
-- Other activities can be considered a replacement for steps. If you've done some Tai Chi for example, that's not many steps, but it is exertion on the body that may reduce your number of steps for the day. You have to be honest with yourself here.
+- Other activities can be considered a replacement for steps. If you've done some Tai Chi for example, that's not many steps, but it is exertion on the body that may reduce your number of steps for the day. You have to be honest with yourself here to ensure you don't tire yourself out.
 
-- Once you hit the 7K mark, six 1,000 step walks would be better than two 3,000 step walks. Make sure you spread it out!
+- Multiple small walks spread out over the day are much better than one big walk!
 
-- Increasing your pace when walking can be a good way of increasing cardio work, without doing more steps.
+- Increasing your pace when walking can be a good way of increasing cardio work, without doing more steps. Be careful :relaxed:.
 
 ### How to Use the Steps Table
 
