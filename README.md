@@ -160,4 +160,4 @@ I used this method, being careful to note my progress at the times in the table 
 
 ### Overall
 
-Overall, this technique is proving most satisfactory in building back up following Covid.
+Overall, this technique is proving a good framework to help build back up following Covid.
