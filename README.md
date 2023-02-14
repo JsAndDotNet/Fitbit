@@ -38,7 +38,7 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 ### Step 1 - Gauge Current Activity
 
-1. Spend 1-2 days doing what you are currently doing to Gauge how active you really are. Try to notice WHEN you are being active. DO NOT push yourself during these days. **You need to find a baseline you can manage**.
+1. Spend 1-2 days doing what you are currently doing to gauge how active you really are. Try to notice WHEN you are being active. DO NOT push yourself during these days. **You need to find a baseline you can manage**.
 
 2. Take note of the number of steps certain activities take. E.g. Getting breakfast = 83 steps. Walk to shops = approx 900 steps. This will help spread the load in step 2. My wife paced out certain activities for me, so I didn't have to do them to know what was required.
 
