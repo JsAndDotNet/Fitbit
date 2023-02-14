@@ -58,7 +58,19 @@ This is not a 'quick fix'. Convalescence takes time. That said, I noticed signif
 
 2. Stick to the [Steps Table Guide](#how-to-use-the-steps-table) even if you feel well. If you think you can bump up the number of steps, set that as the target for tomorrow, not today! 
 
-Fatigue may take up to 3 days to surface, so caution is key. 
+### Notes
+
+- Fatigue may take up to 3 days to surface, so caution is key. 
+
+- Steps are not the be-all-and-end-all. It's good to get them up to a decent level for a feeling of getting back to normal, but you will need cardio and strengthening exercises too.
+
+- You may hit plateau's (times when you get stuck at a level - I did at 5K and 7K). Don't worry. If you're not ready to move on, don't try to push through. You may find you're actually doing more of other activities that don't involve many steps, but is still exertion (e.g. cooking).
+
+- Other activities can be considered a replacement for steps. If you've done some Tai Chi for example, that's not many steps, but it is exertion on the body that may reduce your number of steps for the day. You have to be honest with yourself here.
+
+- Once you hit the 7K mark, six 1,000 step walks would be better than two 3,000 step walks. Make sure you spread it out!
+
+- Increasing your pace when walking can be a good way of increasing cardio work, without doing more steps.
 
 ### How to Use the Steps Table
 
@@ -131,10 +143,19 @@ I used this method, being careful to note my progress at the times in the table 
 | 11    | 6300  |
 | 12   | 6500  |
 | 13   | 6800  |
-| 14   | 7000  |
+| 14   | 7200  |
+| 15   | 7000  |
+| 16   | 6300 <sup>3</sup>  |
+| 17   | 6000 <sup>4</sup>  |
+| 18   | 8500   |
+| 19   | 6400 <sup>5</sup>  |
+
 
 1. Was aiming for 3.5k, but went a bit over
 2. This jump was too much and resulted in building back up.
+3. Did an exercise class for 30 mins, so aimed for lower steps to avoid exhaustion.
+4. Went clothes shopping with family. Was standing around a lot, so lower steps.
+5. Did an exercise class (30 mins), a very brisk walk, and started Tai Chi (20 mins - hard on the legs!).
 
 
 ### Overall
