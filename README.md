@@ -150,6 +150,7 @@ I used this method, being careful to check my progress at the times in the table
 | 18   | 8500   |
 | 19   | 6400 <sup>5</sup>  |
 | 20   | 8500 <sup>6</sup>  |
+| 21   | 9500   |
 
 
 1. Was aiming for 3.5k, but went a bit over
