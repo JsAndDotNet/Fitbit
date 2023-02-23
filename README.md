@@ -103,9 +103,21 @@ The main idea is to spread steps out through the day.
 | 1600                        | 1300 | 1950 | 2250 | 3200 | 3850 | 4500 | 5150 | 5800 | 6450 | 7050 |
 | 2000                        | 1850 | 2800 | 3700 | 4650 | 5550 | 6500 | 8350 | 8350 | 9300 | 10200 |
 
-
-
 The formula is in [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx)
+
+<br />
+
+#### Higher Steps Adjusted
+
+
+At >7-8K steps, you may need to make adjustments to the tables to move steps towards the earlier part of the day, to allow for evening rest e.g. :
+
+|Time(24hr)&darr;/Steps&rarr; | 10000 | 
+| ----                        | ---  | 
+| 1000                        | 2500  |
+| 1200                        | 5000  |
+| 1600                        | 8500  |
+| 2000                        | 10000  |
 
 
 
