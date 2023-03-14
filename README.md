@@ -129,7 +129,7 @@ At >7-8K steps, you may need to make adjustments to the tables to move steps tow
 
 > NOTE 2: I found the tables worked better than a '% Complete App' (such as the 'Loops' Clock on Fitbit Versa 2). The tables were instrumental in making sure the steps were *SPREAD OUT*.
 
-> NOTE 3: For strengthening exercises and mental health, I used this excellent [Long Covid Rehab Guide From Nuffield](/covid-rehab-journal.pdf), Both this steps guide and the Nuffield plan were key parts to my recovery.
+> NOTE 3: For strengthening exercises and mental health, I used this excellent [Long Covid Rehab Guide From Nuffield](/covid-rehab-journal.pdf).
 
 
 ### Background
