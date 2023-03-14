@@ -12,8 +12,7 @@ The principle is simple:
 
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
-I found the tables worked better than a '% Complete App' (such as the 'Loops' Clock on Fitbit Versa 2). The tables were more specific and took into account my waking hours, meaning I knew if I was over or under at a given time.
-
+&nbsp;
 # Full Description
 
 ## Purpose
@@ -126,21 +125,30 @@ At >7-8K steps, you may need to make adjustments to the tables to move steps tow
 
 > NOTE: Do not compare your progress with other people. Everyones body is different - Do what's right for you!
 
-> NOTE 2: For strengthening exercises and mental health, I used this [Long Covid Rehab Guide From Nuffield](/covid-rehab-journal.pdf), Both this steps guide and the Nuffield plan were key parts to my recovery.
+> NOTE 2: I found the tables worked better than a '% Complete App' (such as the 'Loops' Clock on Fitbit Versa 2). The tables were instrumental in making sure the steps were *SPREAD OUT*.
+
+> NOTE 3: For strengthening exercises and mental health, I used this excellent [Long Covid Rehab Guide From Nuffield](/covid-rehab-journal.pdf), Both this steps guide and the Nuffield plan were key parts to my recovery.
+
+
+### Background
+
+My pattern had been doing nothing most of the day, feeling better, then being too active. My comfort level was 1,000 steps, but when I tried to exercise, my walk was 700 steps - nearly 75% of what I could manage in a day. Clearly a recipe for boom and bust! I was stuck in a boom and bust cycle for several weeks until I started using this plan.
+
 
 ### Step 1
 
 I thought I was doing nothing, but in fact I was doing around 1,000 steps a day comfortably. 
 
-My pattern had been doing nothing most of the day, feeling better, then being too active. My comfort level was 1,000 steps, but when I tried to exercise, my walk was 700 steps - nearly 75% of what I could manage in a day. Clearly a recipe for boom and bust!
 
 ### Step 2
 
-I started spreading out my steps over the day. My inital target was 1200. When spread over the day, I was tired, but not completely smashed.
+I started using the tables above and spreading my steps out over the day. My inital target was 1200 steps. I was tired, but not completely smashed.
 
 ### Step 3
 
-I used this method, being careful to check my progress at the times in the table (10am, 12pm, 4pm, 8pm) and spread activity throughout the day:
+I then continued to use the tables above (checking in at 10am, 12pm, 4pm, 8pm) and gradually tried increasing the steps.
+
+Here are the results:
 
 | Day  | Steps (approx) |
 | ---- | ----- |
@@ -166,7 +174,6 @@ I used this method, being careful to check my progress at the times in the table
 | 20   | 8500 <sup>6</sup>  |
 | 21   | 9500   |
 
-From week four I was managing >10K steps/day every day. I still had long covid issues, but I was able to life a pretty normal life at this point.
 
 1. Was aiming for 3.5k, but went a bit over
 2. This jump was too much and resulted in building back up.
@@ -175,7 +182,11 @@ From week four I was managing >10K steps/day every day. I still had long covid i
 5. Did an exercise class (30 mins), a very brisk walk, and started Tai Chi (20 mins - hard on the legs!).
 6. Including a walk around town and 2 brisk walks.
 
+From week four I was managing >10K steps/day every day. I still had long covid issues (leg pain/ aches and tired), but I was able to live a more normal life at this point.
 
-### Overall
+I did stretches 2-3 times a day (calves, quads, hamstrings). I also feel this helped.
+
+&nbsp;
+## Overall
 
 Overall, this technique is proving a good framework to help build back up following Covid.
