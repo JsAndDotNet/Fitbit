@@ -12,7 +12,7 @@ The principle is simple:
 
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
-> NOTE: My original [steps spreadsheet is here](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) if you wish to make your own adjustments or have a printed copy. You'll need to click ('raw view') to download.
+> NOTE: My original [steps spreadsheet is here](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) if you wish to make your own adjustments or have a printed copy. You'll need to click ('View raw') to download.
 
 &nbsp;
 # Full Description
