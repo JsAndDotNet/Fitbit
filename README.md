@@ -126,6 +126,8 @@ At >7-8K steps, you may need to make adjustments to the tables to move steps tow
 
 > NOTE: Do not compare your progress with other people. Everyones body is different - Do what's right for you!
 
+> NOTE 2: For strengthening exercises and mental health, I used this [Long Covid Rehab Guide From Nuffield](/covid-rehab-journal.pdf), Both this steps guide and the Nuffield plan were key parts to my recovery.
+
 ### Step 1
 
 I thought I was doing nothing, but in fact I was doing around 1,000 steps a day comfortably. 
@@ -164,6 +166,7 @@ I used this method, being careful to check my progress at the times in the table
 | 20   | 8500 <sup>6</sup>  |
 | 21   | 9500   |
 
+From week four I was managing >10K steps/day every day. I still had long covid issues, but I was able to life a pretty normal life at this point.
 
 1. Was aiming for 3.5k, but went a bit over
 2. This jump was too much and resulted in building back up.
