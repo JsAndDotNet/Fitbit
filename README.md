@@ -8,7 +8,7 @@
 The principle is simple:
 
 1. Gauge comfortable baseline number of steps (1-2 days)
-2. Print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) or use [the tables here](#how-to-use-the-steps-table) as a guide to spread activity through the day. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under, but try to get near :relaxed: . 
+2. Use [the tables here](#how-to-use-the-steps-table), or download/print [Steps Calculator.xlsx](https://github.com/JsAndDotNet/Fitbit/blob/main/Steps%20Calculator.xlsx) as **a guide to spread activity through the day**. Try to keep in range. If you've hit the steps too early, make sure you rest! Don't worry too much if you're under, but try to get near :relaxed: . 
 
 3. Build up the number of steps carefully, keeping in line with the steps/time guide.
 
