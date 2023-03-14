@@ -191,4 +191,4 @@ I did stretches 2-3 times a day (calves, quads, hamstrings). I also feel this he
 &nbsp;
 ## Overall
 
-Overall, this technique is proving a good framework to help build back up following Covid.
+Overall, this technique has proved a good framework to help build back up following Covid.
