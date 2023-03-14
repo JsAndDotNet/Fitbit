@@ -1,4 +1,4 @@
-# Use of Fitbit for Post Covid Fatigue Rehabilitation
+# Use of Fitbit for Post Covid Fatigue Rehabilitation (Avoiding Boom and Bust)
 
 > This method is free to use and derive as you so wish. I ([Justin Jones](https://twitter.com/JsAndDotNet), UK South) would appreciate being credited with the original model. I take no responsibility for it, or derivations of it, in any way whatsoever.
 
